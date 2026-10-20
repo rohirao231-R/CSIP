@@ -1,0 +1,15 @@
+.venv
+.env
+.idea/
+.nicegui/
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.zip
+database_control.py
+terminal.auth.py
+build
+.nicegui
+dist
+project
